@@ -1,0 +1,27 @@
+h1 {
+    color: crimson;
+    text-align: left;
+    background-color: grey;
+}
+h2 {
+    color:darksalmon;
+    font-style: italic;
+    text-align: left;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 40px;
+    color:black ;
+  }
+  ol {
+      line-height: 50px;
+      color: rgb(59, 50, 39);
+  }
+  strong {
+    font-weight: bold;
+  }
+
+
+
